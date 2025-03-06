@@ -1,0 +1,8 @@
+2025-03-06 13:37:29.914534+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "USUARIO" no encontrada
+Table "USUARIO" not found; SQL statement:
+insert into usuario (apellidos,avatar,email,fecha_alta,nombre,password,id) values (?,?,?,?,?,?,default) [42102-232]
+2025-03-06 13:39:49.818256+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "USUARIO" no encontrada
+Table "USUARIO" not found; SQL statement:
+insert into usuario (apellidos,avatar,email,fecha_alta,nombre,password,id) values (?,?,?,?,?,?,default) [42102-232]
